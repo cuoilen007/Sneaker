@@ -1,0 +1,16 @@
+APP_NAME=php
+APP_ENV=local
+APP_URL=http://localhost/src
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.01
+DB_PORT=3306
+DB_DATABASE=project
+DB_NAME=root
+DB_PASSWORD=
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_POST=25
+MAIL_USERNAME=jukain59@gmail.com
+MAIL_PASSWORD=vy2008M0 
